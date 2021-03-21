@@ -53,7 +53,7 @@ img {
     border-width: 3px;
 }
 
-.obdelnik {
+.vizitka {
     margin-top: 150px;
     width: 550px;
     justify-content: center;
@@ -67,10 +67,9 @@ img {
 
 .fotka {
     position: absolute;
-    left: 485px;
-    bottom: 360px;
+    right: -75px;
+    top: -70px;
 }
-
 
 .twitter {
     background-color: #1da1f2;
@@ -92,6 +91,6 @@ img {
     background-color: #2b406e;
 }
 
-.odstavec1 p {
+.odstavec1 {
     margin-top: 0;
 }
